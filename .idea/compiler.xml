@@ -10,8 +10,5 @@
         <module name="QA_practice" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
-      <module name="QA_practice" target="1.8" />
-    </bytecodeTargetLevel>
   </component>
 </project>
